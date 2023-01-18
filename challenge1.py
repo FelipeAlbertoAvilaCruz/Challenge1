@@ -10,7 +10,7 @@ def velocidad (latitud):
     resultado = distancia/tiempo 
     return resultado
 
-"Las latitudes de cada respectiva coordenada, para obtener la velocidad de rotación de la tierra no necesario la longitud"
+"Las latitudes de cada respectiva coordenada, para obtener la velocidad de rotación de la tierra no es necesaria la longitud"
 latitud1 = 18.60646
 latitud2 = -38.373825292521154
 
